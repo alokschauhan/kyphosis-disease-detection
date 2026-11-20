@@ -31,4 +31,3 @@ Please consult the original publication for the reported experimental methodolog
 
 
 
-The repository should distinguish original research files and outputs from any subsequent reproduction, corrections, or additional analysis. The presence of code alone does not establish that all published results have been independently reproduced.
